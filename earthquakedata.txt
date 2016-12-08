@@ -1,0 +1,5 @@
+1,Williamsport,5.50,12.20,yes,20000.00
+2,Wisconsin,1.20,8.40,no,0.00
+3,Texas,3.40,12.30,yes,40000.00
+4,California,6.60,23.40,yes,23000.00
+5,Williamsport,4.60,12.41,yes,35000.00
